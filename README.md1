@@ -1,0 +1,8 @@
+โครงสร้างไฟล์ที่สำคัญ (Project Structure)
+webPro2/: โฟลเดอร์หลักที่บรรจุ Source Code ของเว็บไซต์ทั้งหมด
+
+movenet.ipynb: ส่วนประมวลผล AI สำหรับการตรวจจับท่าทาง (Pose Estimation)
+
+.vscode/: การตั้งค่าสภาพแวดล้อมสำหรับการพัฒนาบน Visual Studio Code
+
+cert.pem & key.pem: ไฟล์สำหรับการรันระบบบน HTTPS เพื่อความปลอดภัยของข้อมูล
